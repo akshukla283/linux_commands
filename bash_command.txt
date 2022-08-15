@@ -1,0 +1,19 @@
+
+THE BASH SHELL:
+
+### bash command
+
+Short for "Bourne-Again Shell," bash is a Unix shell. Originally released in 1989 as a free replacement for the Bourne Shell, 
+bash is part of the GNU project.
+
+Bash is the default shell in macOS, Windows Subsystem for Linux, and the majority of Linux operating systems.
+
+Description
+bash is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
+ bash also incorporates useful features from the Korn and C shells (ksh and csh).
+
+bash is intended to be a conformant implementation of the Shell and Utilities portion of the IEEE POSIX specification 
+(IEEE Standard 1003.1). bash can be configured to be POSIX-conformant by default.
+
+Syntax
+bash [options] [file]

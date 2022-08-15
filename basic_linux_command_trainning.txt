@@ -1,0 +1,45 @@
+bash  -bash script 
+cd   -change directory
+ls   -list the directory    -lhrt -a -d  
+cat  -list file content 
+vim  -vim editor to write files - command/insert mode - :wq :wqa :w :q :a :e /test(pattern search) :s/source/replacement/g  
+pwd  -present working directory 
+ssh  - take remote ssh 
+mkdir -make directory  -p 
+rm    - remove files/dictory    -rf  
+cp    -file copy   -r
+mv   -file move   -r
+chmod  - change mode for the file  
+chown  -change ownership 
+grep  - pattern searching 
+nslookup -to get domain name 
+ping  - check ping rate
+
+## Note- to create multiple cursor in notepad++ just type 'Shift + Alt + down arrow '
+-----------------------------------------------------------------------------------------------------------------
+--------------------  ls command in Linux/Unix ------------------------------------------------------------------
+
+option	         description
+ls -a	    list all files including hidden file starting with '.'
+ls --color	colored list [=always/never/auto]
+ls -d	    list directories - with ' */'
+ls -F	    add one char of */=>@| to enteries
+ls -i	    list file's inode index number
+ls -l	    list with long format - show permissions
+ls -la	    list long format including hidden files
+ls -lh	    list long format with readable file size
+ls -ls	    list with long format with file size
+ls -r	    list in reverse order
+ls -R	    list recursively directory tree
+ls -s	    list file size
+ls -S	    sort by file size
+ls -t	    sort by time & date
+ls -X	    sort by extension name
+
+---------------------------------------------------------------------------------------------------------------------
+--------------- cat command in Linux/Unix ---------------------------------------------------------------------------
+cat -b	add line numbers to non blank lines
+cat -n	add line numbers to all lines
+cat -s	squeeze blank lines to one line
+cat -E	show $ at the end of line
+cat -T	show ^I instead of tabs
